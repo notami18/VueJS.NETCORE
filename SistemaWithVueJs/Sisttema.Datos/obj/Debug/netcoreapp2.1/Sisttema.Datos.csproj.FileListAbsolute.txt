@@ -1,0 +1,14 @@
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sisttema.Datos.deps.json
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sisttema.Datos.dll
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sisttema.Datos.pdb
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.csprojAssemblyReference.cache
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.AssemblyInfoInputs.cache
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.AssemblyInfo.cs
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.dll
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.pdb
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sisttema.Datos.runtimeconfig.json
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sisttema.Datos.runtimeconfig.dev.json
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\cminota\source\repos\SistemaWithVueJs\Sisttema.Datos\obj\Debug\netcoreapp2.1\Sisttema.Datos.csproj.CopyComplete
